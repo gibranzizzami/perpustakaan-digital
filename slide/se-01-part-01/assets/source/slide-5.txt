@@ -1,6 +1,5 @@
-Perkembangan Perpustakaan Digital
+Sekarang kita akan memahami Karakteristik Perpustakaan Digital
 
-Era Awal 1990 an
+Pertama Koleksi digital
 
-Perpustakaan digital dimulai dengan proses digitalisasi sumber daya sebagai upaya konservasi dan untuk memberikan akses terbatas kepada pengguna tertentu. Digitalisasi ini dilakukan dengan mengonversi berbagai materi fisik, seperti buku, manuskrip, peta, dan dokumen bersejarah, ke dalam format digital agar lebih tahan lama dan tidak mudah rusak. Langkah ini sangat penting untuk menjaga koleksi langka atau rapuh agar tetap dapat digunakan oleh generasi mendatang tanpa harus terus-menerus menangani bahan aslinya yang rentan terhadap kerusakan akibat usia atau faktor lingkungan.
-Pada tahap awal, akses terhadap koleksi digital biasanya masih terbatas, terutama bagi peneliti, akademisi, atau pihak yang memiliki izin khusus. Hal ini dilakukan untuk melindungi hak cipta dan memastikan bahwa dokumen yang telah didigitalisasi digunakan sesuai dengan ketentuan yang berlaku. Selain itu, perpustakaan digital juga menerapkan sistem keamanan dan pengelolaan data yang ketat guna mencegah penyalahgunaan serta menjaga integritas informasi yang tersedia. Beberapa institusi juga menggunakan model keanggotaan atau langganan untuk mengatur siapa saja yang dapat mengakses koleksi tertentu.
+Menyimpan berbagai bentuk sumber informasi dalam format digital merupakan salah satu cara untuk mengelola dan mendistribusikan informasi secara lebih efisien. Dalam dunia digital, informasi dapat disimpan dalam berbagai format, seperti teks, gambar, audio, dan video, yang memungkinkan fleksibilitas dalam penggunaannya. Dokumen teks dapat disimpan dalam format PDF atau DOC, gambar dalam format JPEG atau PNG, sedangkan file audio dan video dalam format MP3 dan MP4. Dengan penyimpanan digital, informasi menjadi lebih mudah diakses, dicari, serta dibagikan melalui jaringan komputer, baik secara lokal maupun melalui internet.
