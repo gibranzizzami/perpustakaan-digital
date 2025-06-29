@@ -34,6 +34,9 @@ let speak_lang = ()=> {                                                     // p
         option = document.createElement('option');                          // Create a new option element.
         option.value = voice.name;                                          // Set the options value and text.
         option.innerText = option.value.replace("Google", "");
+        if ( option.value == "Google Bahasa Indonesia" ) {
+            option.setAttribute("selected", "true")
+        }
         language.appendChild(option);                                       // Set the options value and text.
 	});
 }
