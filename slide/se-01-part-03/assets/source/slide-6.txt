@@ -1,4 +1,4 @@
-Perpustakaan Tradisional:
+selain aksesibilitas, perbedaan lainnya adalah terkait penyimpanan. Perpustakaan Tradisional:
 
 Perpustakaan tradisional memerlukan ruang fisik yang cukup besar untuk menyimpan koleksi buku, jurnal, manuskrip, dan media cetak lainnya. Seiring bertambahnya koleksi, kebutuhan akan ruang penyimpanan juga meningkat, sehingga perpustakaan harus merancang sistem tata letak yang efisien agar koleksi tetap mudah diakses. Selain itu, beberapa bahan pustaka, terutama manuskrip kuno dan arsip bersejarah, memerlukan ruang penyimpanan khusus dengan kondisi lingkungan yang terkendali, seperti suhu dan kelembapan tertentu, guna menjaga keawetan dokumen. Hal ini menambah kompleksitas dalam pengelolaan perpustakaan fisik.
 
@@ -6,7 +6,7 @@ Selain membutuhkan ruang penyimpanan yang besar, perpustakaan juga memerlukan te
 
 Meskipun perpustakaan fisik memiliki tantangan dalam hal ruang dan tenaga kerja, keberadaannya tetap penting dalam mendukung pembelajaran dan penelitian. Banyak perpustakaan kini mulai mengadopsi sistem digital untuk mengoptimalkan pengelolaan koleksi, seperti katalog online dan layanan peminjaman elektronik, guna mengurangi ketergantungan pada ruang fisik. Dengan integrasi teknologi, perpustakaan dapat meningkatkan efisiensi pengelolaan dan memperluas akses informasi bagi masyarakat luas, sambil tetap mempertahankan fungsi utamanya sebagai pusat sumber pengetahuan yang dapat diandalkan.
 
-Perpustakaan Digital:
+berbeda dengan perpustakaan tradisional, Perpustakaan Digital:
 
 Perpustakaan digital memerlukan perangkat keras dan perangkat lunak untuk menyimpan, mengelola, dan mendistribusikan koleksi digital secara efektif. Server dengan kapasitas penyimpanan besar diperlukan untuk menampung berbagai jenis dokumen, seperti e-book, jurnal elektronik, dan arsip digital. Selain itu, perangkat lunak manajemen perpustakaan digital harus mampu mengorganisir koleksi, menyediakan fitur pencarian yang efisien, serta memastikan keamanan data. Teknologi penyimpanan berbasis cloud juga semakin banyak digunakan karena memungkinkan akses yang lebih fleksibel dan tidak terbatas oleh lokasi fisik.
 
